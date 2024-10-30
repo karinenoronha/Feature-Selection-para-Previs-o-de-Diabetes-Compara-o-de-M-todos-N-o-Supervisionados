@@ -1,4 +1,4 @@
-# Feature-Selection-para-Previs-o-de-Diabetes-Compara-o-de-M-todos-N-o-Supervisionados
+# Feature-Selection-para-Previsao-de-Diabetes-Comparando-os-metodos-nao-Supervisionados
 
 ## 1. Introdução ao Estudo
 
